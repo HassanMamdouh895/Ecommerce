@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+    @apply px-3 py-2 bg-transparent border-2 rounded-lg w-full my-1
+}

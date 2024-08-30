@@ -1,0 +1,9 @@
+.btn-card {
+    transition: transform 0.5s,opacity 0.5s;
+    transform: translateY(100%);
+    opacity: 0;
+}
+.productss:hover .btn-card {
+    opacity: 1;
+    transform: translateY(0%);
+}
